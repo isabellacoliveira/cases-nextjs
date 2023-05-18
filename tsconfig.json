@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "src/theme/Component.js", "src/theme/GlobalStyle.js", "src/theme/theme.js", "src/screens/HomeScreen/index.js", "src/components/Patterns/Footer/index.js", "pages/index.js", "pages/faq.js", "pages/404.js", "pages/_app.js", "src/components/Link/index.js"  ],
   "exclude": [
     "node_modules"
   ]
