@@ -4,7 +4,7 @@ import Head from "next/head";
 function MyApp({ Component, pageProps }) {
 	return (
 		<>
-			<script
+			{/* <script
 				dangerouslySetInnerHTML={{
 					__html: `
             window.dataLayer = window.dataLayer || [];
@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }) {
             gtag('config', 'G-2QZDPX3BLK');
         `,
 				}}
-			/>
+			/> */}
 			<Head>
 				<link rel="preconnect" href="https://fonts.googleapis.com" />
 				<link
